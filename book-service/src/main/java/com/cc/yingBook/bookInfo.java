@@ -49,6 +49,7 @@ public class bookInfo
 
 	public bookInfo() {
 		super();
+		System.out.println("123456");
 		// TODO Auto-generated constructor stub
 	}
     
