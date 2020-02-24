@@ -39,5 +39,17 @@ public class bookInfo
 	public String toString() {
 		return "bookInfo [bookName=" + bookName + ", bookId=" + bookId + ", bookPrice=" + bookPrice + "]";
 	}
+
+	public bookInfo(String bookName, Integer bookId, Integer bookPrice) {
+		super();
+		this.bookName = bookName;
+		this.bookId = bookId;
+		this.bookPrice = bookPrice;
+	}
+
+	public bookInfo() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
     
 }
