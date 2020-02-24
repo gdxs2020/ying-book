@@ -33,4 +33,10 @@ public class bookInfo
     public void setBookPrice(Integer bookPrice) {
         this.bookPrice = bookPrice;
     }
+
+	@Override
+	public String toString() {
+		return "bookInfo [bookName=" + bookName + ", bookId=" + bookId + ", bookPrice=" + bookPrice + "]";
+	}
+    
 }
