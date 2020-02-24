@@ -11,6 +11,7 @@ public class bookInfo
     private Integer bookPrice;
 
     public String getBookName() {
+        System.out.println("123");
         return bookName;
     }
 
