@@ -16,7 +16,7 @@
     </modules>
     <properties>
         <spring.verion>4.2.6.RELEASE</spring.verion>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <mybatis.spring.version>1.2.2</mybatis.spring.version>
         <mybatis.version>3.4.6</mybatis.version>
     </properties>
