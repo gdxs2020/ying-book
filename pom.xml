@@ -15,7 +15,7 @@
         <module>book-web</module>
     </modules>
     <properties>
-        <spring.verion>4.2.6.RELEASE</spring.verion>
+        <spring.verion>5.3.19</spring.verion>
         <junit.version>4.12</junit.version>
         <mybatis.spring.version>1.2.2</mybatis.spring.version>
         <mybatis.version>3.4.6</mybatis.version>
